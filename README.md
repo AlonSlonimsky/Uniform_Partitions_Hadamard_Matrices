@@ -1,5 +1,5 @@
 # 2025 Summer Research Project
-This is the code produced from the research performed by myself and supervising professor Dr. Robert Craigen, Univserity of Manitoba.
+This is the code produced from the research performed by Alon Slonimsky and supervising professor Dr. Robert Craigen, Univserity of Manitoba.
 
 ### Background
 A Hadamard matrix is a square grid of 1s and -1s in which the dot product of any two rows is 0. The dot product between two rows can be defined as the sum of the products of elements in the same column.
@@ -22,4 +22,4 @@ Nauty is a very helpful tool for testing the automorphism of graphs quickly. The
 `tools` is the collection of useful methods and algorithms used throughout the project.
 
 ### Aside:
-The details and descriptions of the algorithms are described in a private overleaf project.
+The details and descriptions of the algorithms are documented in a private overleaf project. Feel free to contact me for additional information or discussion about the methods.
