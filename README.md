@@ -1,5 +1,5 @@
 # 2025 Summer Research Project
-This is the code produced from the research performed by Alon Slonimsky and supervising professor Dr. Robert Craigen, Univserity of Manitoba.
+This is the code produced from the research performed by Alon Slonimsky and supervising professor Dr. Robert Craigen, University of Manitoba.
 
 ### Background
 A Hadamard matrix is a square grid of 1s and -1s in which the dot product of any two rows is 0. The dot product between two rows can be defined as the sum of the products of elements in the same column.
